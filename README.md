@@ -1,6 +1,4 @@
-# Two Sigma Financial modeling project
-
-This is the repo for predicting Boston housing prices project.
+# This is the repo for predicting Boston housing prices project.
 
 
 ## Creators
